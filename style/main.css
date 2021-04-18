@@ -51,7 +51,7 @@ header nav a:hover{ /* toda vez que passar o mouce por sima das letras, a letra 
 /* filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/replicando-netflix/img/capa-pb1.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/replicando-netflix/img/surealismo.jpg');
 
 
     height: 400px;
